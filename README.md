@@ -1,4 +1,6 @@
-# Born2beRoot [![sbertali's 42Project Score](https://badge42.herokuapp.com/api/project/sbertali/Born2beroot)](https://github.com/SidBertalia/badge42)
+<p align="center"><img src="https://github.com/SidBertalia/SidBertalia/blob/main/srcs/born2beroote.png" /></p>
+
+# Born2beRoot <img src="https://badge42.herokuapp.com/api/project/sbertali/Born2beroot" align=right>
 
 Projeto consiste em criar um servidor ssh em maquina virtual, e você terá oportunidade de instalar o sistema operacional, configurar sudo, firewall, ssh de acordo com as regras do PDF. Além de descobrir o **Cron e o LVM**, ferramentas muito úteis.
 
